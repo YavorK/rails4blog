@@ -43,4 +43,12 @@ to Gemfile
 19) look at http://localhost:3000/
 
 
-done!
+==done!
+
+==Screenshots
+
+http://s3.postimg.org/moeq9ftcj/screenshot_125.png
+
+http://s3.postimg.org/ex2lomekz/screenshot_126.png
+
+
