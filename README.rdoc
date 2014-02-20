@@ -46,9 +46,14 @@ to Gemfile
 ==done!
 
 ==Screenshots
+Index page
 
 http://s3.postimg.org/moeq9ftcj/screenshot_125.png
 
+Admin Login
+http://s3.postimg.org/g0mq0kz83/screenshot_127.png
+
+Admin Area
 http://s3.postimg.org/ex2lomekz/screenshot_126.png
 
 
