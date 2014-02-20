@@ -48,13 +48,29 @@ to Gemfile
 ==Screenshots
 Index page
 
-http://s3.postimg.org/moeq9ftcj/screenshot_125.png
+http://s3.postimg.org/ob8j8eus3/screenshot_131.png
 
 Admin Login
+
 http://s3.postimg.org/g0mq0kz83/screenshot_127.png
 
 Admin Area
+
 http://s3.postimg.org/ex2lomekz/screenshot_126.png
+
+Creating a new post
+
+http://s3.postimg.org/aqhr9aez7/screenshot_128.png
+
+Just created a new post
+
+http://s3.postimg.org/oy7fxxro3/screenshot_129.png
+
+Ediding post
+
+http://s3.postimg.org/3ptrgid77/screenshot_130.png
+
+
 
 ==Disclaimer
 For example purposes. 
