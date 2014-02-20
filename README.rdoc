@@ -1,28 +1,25 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1) rails new webapp
+2) rails g scaffold post title:string content:text
+3) rake db:migrate
+4) show sqlite database in firefox
+5) go to http://localhost:3000/posts and create a new post, refresh database
+6) clean up code
+7) add 
+gem 'activeadmin', github: "gregbell/active_admin"
+to Gemfile
+8) run 'bundle'
+9) run 'rails generate active_admin:install'
+10) rake db:migrate
+11) open http://localhost:3000/admin
+12) run 'rails console'
+13) create AdminUser in console
+14) AdminUser.create :email => 'test@test.com', :password => 'test1234'
+15) login in admin >> http://localhost:3000/admin
+16) add file app/admin/posts.rb
+17) go to http://localhost:3000/admin/posts and look around ;)
+18) Make the posts#index action to be the default for root
+19) look at http://localhost:3000/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+done!
